@@ -13,15 +13,4 @@ Captura 3 ilof
 
 
 
-kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/Velociraptor$ ./velociraptor version
-name: velociraptor
-version: 0.77.3
-commit: 7d287b0b9
-build_time: "2026-10-04T10:04:24Z"
-compiler: go1.27.1
-system: linux
-architecture: amd64
-kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/Velociraptor$ ls -lh
-total 75M
--rwxrwxr-x 1 kathia kathia 75M Oct  4 18:48 velociraptor
-kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/Velociraptor$ 
+
