@@ -17,4 +17,5 @@ Captura 3 ilof
 <img width="1920" height="1200" alt="Screenshot from 2026-11-19 13-10-11" src="https://github.com/user-attachments/assets/79371c5e-7ac7-49ba-969a-3f77341bf4a9" />
 
 
--rw-rw-r-- 1 kathia kathia 75M Nov 19 13:44 /home/kathia/Downloads/Recolector_Modulo1_Linux
+kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/Downloads$ file ~/Downloads/Recolector_Modulo1_Linux
+/home/kathia/Downloads/Recolector_Modulo1_Linux: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, BuildID[sha1]=712319ad7308df9be7ab8888a5cf1ddd311f37de, stripped
