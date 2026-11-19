@@ -25,3 +25,10 @@ kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/Downloads$ file ~/Downloads/Recolector_
 
 HOARA EXACTA
 <img width="1920" height="1200" alt="hora" src="https://github.com/user-attachments/assets/3764e2c4-7e38-4c60-9f5b-a28b34c01bd6" />
+
+
+Velo
+<img width="1920" height="1200" alt="velociraptor" src="https://github.com/user-attachments/assets/9e821464-fd2b-4d5a-81d1-b405260698c1" />
+
+Velociraptor
+<img width="1920" height="1200" alt="velociratptor enubuntu" src="https://github.com/user-attachments/assets/21a83ab1-1f30-476b-aa8d-f6665d302e8c" />
