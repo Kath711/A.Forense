@@ -32,3 +32,11 @@ Velo
 
 Velociraptor
 <img width="1920" height="1200" alt="velociratptor enubuntu" src="https://github.com/user-attachments/assets/21a83ab1-1f30-476b-aa8d-f6665d302e8c" />
+
+
+PRE Hash
+<img width="1920" height="1200" alt="prehash" src="https://github.com/user-attachments/assets/62656638-0b25-4b2c-bc7d-763ff2d717b1" />
+
+Hash
+<img width="1920" height="1200" alt="hasj h" src="https://github.com/user-attachments/assets/19309736-bea3-4812-966f-6f88ba58ec31" />
+
