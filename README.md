@@ -19,3 +19,5 @@ Captura 3 ilof
 
 kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/Downloads$ file ~/Downloads/Recolector_Modulo1_Linux
 /home/kathia/Downloads/Recolector_Modulo1_Linux: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, BuildID[sha1]=712319ad7308df9be7ab8888a5cf1ddd311f37de, stripped
+
+<img width="1920" height="1200" alt="ubuntucarpeta" src="https://github.com/user-attachments/assets/625f61fa-223c-40fb-af4f-4830c9afcb81" />
