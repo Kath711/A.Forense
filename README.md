@@ -21,3 +21,7 @@ kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/Downloads$ file ~/Downloads/Recolector_
 /home/kathia/Downloads/Recolector_Modulo1_Linux: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, BuildID[sha1]=712319ad7308df9be7ab8888a5cf1ddd311f37de, stripped
 
 <img width="1920" height="1200" alt="ubuntucarpeta" src="https://github.com/user-attachments/assets/625f61fa-223c-40fb-af4f-4830c9afcb81" />
+
+
+HOARA EXACTA
+<img width="1920" height="1200" alt="hora" src="https://github.com/user-attachments/assets/3764e2c4-7e38-4c60-9f5b-a28b34c01bd6" />
