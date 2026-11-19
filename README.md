@@ -1,9 +1,11 @@
 # A.Forense
 
-kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~$ free -h
-               total        used        free      shared  buff/cache   available
-Mem:            15Gi       1.3Gi       8.3Gi       151Mi       6.2Gi        14Gi
-Swap:          2.0Gi       414Mi       1.6Gi
-kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~$ df -h /
-Filesystem      Size  Used Avail Use% Mounted on
-/dev/nvme0n1p2  468G  268G  177G  61% /
+
+
+kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~$ VBoxManage list vms
+"Kali Linux" {e7aff680-294a-46b8-8744-57732aaaaad2}
+"Ubuntu_Forense" {7e93019f-acc3-4a19-8496-5f8ff2c8b38c}
+"Windows 11" {b3591f24-1322-4821-8494-9d04b8879637}
+kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~$ VBoxManage list runningvms
+kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~$ 
+
