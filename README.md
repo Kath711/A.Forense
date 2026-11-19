@@ -15,3 +15,6 @@ Captura 3 ilof
 
 
 <img width="1920" height="1200" alt="Screenshot from 2026-11-19 13-10-11" src="https://github.com/user-attachments/assets/79371c5e-7ac7-49ba-969a-3f77341bf4a9" />
+
+
+-rw-rw-r-- 1 kathia kathia 75M Nov 19 13:44 /home/kathia/Downloads/Recolector_Modulo1_Linux
