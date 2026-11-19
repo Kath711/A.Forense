@@ -40,3 +40,8 @@ PRE Hash
 Hash
 <img width="1920" height="1200" alt="hasj h" src="https://github.com/user-attachments/assets/19309736-bea3-4812-966f-6f88ba58ec31" />
 
+
+Velociraptor good capture:
+<img width="1920" height="1200" alt="velociraptor captura goood" src="https://github.com/user-attachments/assets/9569dcaf-dd12-4e4c-b181-d3ea4e34da52" />
+
+
