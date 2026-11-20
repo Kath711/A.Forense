@@ -41,6 +41,12 @@ config volatility
 good
 <img width="1920" height="1200" alt="good" src="https://github.com/user-attachments/assets/e0cf3343-2331-4256-860e-38f1dfe970d3" />
 
+Progrees
+<img width="1920" height="1200" alt="progressahhhh" src="https://github.com/user-attachments/assets/bb3873f1-340e-4063-b08e-7edbc27e42fc" />
+
+progres ready
+<img width="1920" height="1200" alt="progress ready" src="https://github.com/user-attachments/assets/37cd1e44-8b72-4586-adba-a15e4035177d" />
+
 
 -----------------------------------------------------------
 
