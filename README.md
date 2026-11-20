@@ -111,48 +111,6 @@ Velociraptor good capture:
 
 
 
- head -40 ~/ForenseDigital/Modulo2/procesos.txt
-Volatility 3 Framework 2.28.2
-
-PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime	File output
-
-4	0	System	0xb40eab71f040	179	-	N/A	False	2026-11-15 02:29:19.000000 UTC	N/A	Disabled
-96	4	Registry	0xb40eab841080	4	-	N/A	False	2026-11-15 02:29:18.000000 UTC	N/A	Disabled
-436	4	smss.exe	0xb40eae762040	2	-	N/A	False	2026-11-15 02:29:19.000000 UTC	N/A	Disabled
-620	588	csrss.exe	0xb40eb361e080	11	-	0	False	2026-11-15 02:29:20.000000 UTC	N/A	Disabled
-688	588	wininit.exe	0xb40eb3750080	2	-	0	False	2026-11-15 02:29:20.000000 UTC	N/A	Disabled
-700	680	csrss.exe	0xb40eb3780140	13	-	1	False	2026-11-15 02:29:20.000000 UTC	N/A	Disabled
-772	680	winlogon.exe	0xb40eb37a9080	3	-	1	False	2026-11-15 02:29:20.000000 UTC	N/A	Disabled
-824	688	services.exe	0xb40eb37cb080	8	-	0	False	2026-11-15 02:29:20.000000 UTC	N/A	Disabled
-840	688	lsass.exe	0xb40eb352f080	10	-	0	False	2026-11-15 02:29:20.000000 UTC	N/A	Disabled
-940	688	fontdrvhost.ex	0xb40eb384e140	5	-	0	False	2026-11-15 02:29:20.000000 UTC	N/A	Disabled
-948	772	fontdrvhost.ex	0xb40eb38b0140	5	-	1	False	2026-11-15 02:29:20.000000 UTC	N/A	Disabled
-972	824	svchost.exe	0xb40eb38bb240	13	-	0	False	2026-11-15 02:29:20.000000 UTC	N/A	Disabled
-556	824	svchost.exe	0xb40eb3943080	10	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-420	824	svchost.exe	0xb40eb390b080	5	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1032	824	svchost.exe	0xb40eb39d3240	6	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1040	824	svchost.exe	0xb40eb39b3080	7	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1128	824	svchost.exe	0xb40eb3a350c0	5	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1160	824	svchost.exe	0xb40eb3a8e080	5	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1176	824	svchost.exe	0xb40eb3a94080	4	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1212	772	dwm.exe	0xb40eb3a4c080	22	-	1	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1372	824	svchost.exe	0xb40eb3aec0c0	3	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1396	824	svchost.exe	0xb40eb3bb4080	4	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1440	824	svchost.exe	0xb40eb3be7240	11	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1512	824	svchost.exe	0xb40eb3640080	10	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1560	824	svchost.exe	0xb40eb3cc80c0	2	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1568	824	svchost.exe	0xb40eb3cc2080	3	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1760	824	svchost.exe	0xb40eb3df7080	6	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1876	824	svchost.exe	0xb40eb3e10080	10	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1956	824	MsMpEng.exe	0xb40eb3e3b080	0	-	0	False	2026-11-15 02:29:21.000000 UTC	2026-11-20 06:04:36.000000 UTC	Disabled
-1324	824	svchost.exe	0xb40eab745080	7	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-1680	824	svchost.exe	0xb40eab784080	3	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	Disabled
-2456	824	svchost.exe	0xb40eb4009080	14	-	0	False	2026-11-15 02:29:22.000000 UTC	N/A	Disabled
-2620	824	svchost.exe	0xb40eb40ce080	6	-	0	False	2026-11-15 02:29:24.000000 UTC	N/A	Disabled
-2884	824	VBoxService.ex	0xb40eb4427080	14	-	0	False	2026-11-15 02:29:25.000000 UTC	N/A	Disabled
-2912	824	svchost.exe	0xb40eb4540080	8	-	0	False	2026-11-15 02:29:25.000000 UTC	N/A	Disabled
-2972	824	svchost.exe	0xb40eb45dd080	5	-	0	False	2026-11-15 02:29:25.000000 UTC	N/A	Disabled
-(venv) kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/ForenseDigital/Modulo2/volatility$ 
-
+ 
 
 
