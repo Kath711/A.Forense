@@ -38,11 +38,11 @@ config volatility
 <img width="1920" height="1200" alt="configvolatility" src="https://github.com/user-attachments/assets/5642088d-cf81-4964-a8e4-2d2d2151a553" />
 
 
+good
+<img width="1920" height="1200" alt="good" src="https://github.com/user-attachments/assets/e0cf3343-2331-4256-860e-38f1dfe970d3" />
 
 
-
-
-
+-----------------------------------------------------------
 
 
 
