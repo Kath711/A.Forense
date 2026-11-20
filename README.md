@@ -8,6 +8,9 @@ Windows
 windows 2
 <img width="1920" height="1200" alt="window2" src="https://github.com/user-attachments/assets/36205dd6-7981-4bbc-8cab-be8875e098b6" />
 
+3
+<img width="1920" height="1200" alt="Screenshot from 2026-11-20 00-20-10" src="https://github.com/user-attachments/assets/49155687-3e10-4371-b2e5-f575b67334f1" />
+
 
 
 
