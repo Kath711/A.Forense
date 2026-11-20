@@ -13,6 +13,8 @@ windows 2
 
 
 
+capture memory
+<img width="1920" height="1200" alt="capturememory" src="https://github.com/user-attachments/assets/ba077fc4-ff2b-4e65-b142-74adf9df4b31" />
 
 
 
