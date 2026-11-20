@@ -14,7 +14,7 @@ windows 2
 
 
 capture memory
-<img width="1920" height="1200" alt="capturememory" src="https://github.com/user-attachments/assets/ba077fc4-ff2b-4e65-b142-74adf9df4b31" />
+<img width="1920" height="1200" alt="cpturememory" src="https://github.com/user-attachments/assets/dd7a7b13-66f3-48a2-a434-46b756311493" />
 
 
 
