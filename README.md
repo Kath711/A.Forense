@@ -50,6 +50,9 @@ Progrees
 progres ready
 <img width="1920" height="1200" alt="progress ready" src="https://github.com/user-attachments/assets/37cd1e44-8b72-4586-adba-a15e4035177d" />
 
+i guess
+<img width="1920" height="1200" alt="igues" src="https://github.com/user-attachments/assets/e90c7f50-b09f-46b0-96af-21d41a28157f" />
+
 
 -----------------------------------------------------------
 
