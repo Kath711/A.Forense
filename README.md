@@ -1,5 +1,47 @@
 # A.Forense
 
+Windows
+<img width="1920" height="1200" alt="windows" src="https://github.com/user-attachments/assets/64c366cd-02ea-443a-a69d-5a23a41c2ade" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Captura 1
 <img width="1920" height="1200" alt="Screenshot from 2026-11-18 23-01-25" src="https://github.com/user-attachments/assets/c7f091c2-7481-448b-9aa0-75fabe0c08f1" />
 
