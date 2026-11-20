@@ -155,7 +155,24 @@ PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	Exit
 *** 700	680	csrss.exe	0xb40eb3780140	13	-	1	False	2026-11-15 02:29:20.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16	C:\WINDOWS\system32\csrss.exe
 *** 772	680	winlogon.exe	0xb40eb37a9080	3	-	1	False	2026-11-15 02:29:20.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\winlogon.exe	winlogon.exe	C:\WINDOWS\system32\winlogon.exe
 **** 1212	772	dwm.exe	0xb40eb3a4c080	22	-	1	False	2026-11-15 02:29:21.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\dwm.exe	"dwm.exe"	C:\WINDOWS\system32\dwm.exe
+(venv) kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/ForenseDigital/Modulo2/volatility$
+
+
+
+----------------------------------------------------------------------------
+
+(venv) kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/ForenseDigital/Modulo2/volatility$ vol -f /home/kathia/ForenseDigital/Modulo2/RAM_Modulo2.mem windows.netscan > ~/ForenseDigital/Modulo2/conexiones.txt
+                                                                                            
 (venv) kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/ForenseDigital/Modulo2/volatility$ 
+(venv) kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/ForenseDigital/Modulo2/volatility$ head -50 ~/ForenseDigital/Modulo2/conexiones.txt
+Volatility 3 Framework 2.28.2
+
+Offset	Proto	LocalAddr	LocalPort	ForeignAddr	ForeignPort	State	PID	Owner	Created
+
+(venv) kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/ForenseDigital/Modulo2/volatility$ 
+
+
+
 
 
 
