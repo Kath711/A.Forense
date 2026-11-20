@@ -23,6 +23,9 @@ Completed
 HASH
 <img width="1920" height="1200" alt="shawindowsHASH" src="https://github.com/user-attachments/assets/e0c103ac-a304-4897-9f23-458d71084f38" />
 
+conect
+
+<img width="1920" height="1200" alt="conexionnetscan" src="https://github.com/user-attachments/assets/93caaf66-6207-4de5-8061-8a3a4885296e" />
 
 
 
