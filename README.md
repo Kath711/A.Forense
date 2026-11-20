@@ -26,6 +26,11 @@ HASH
 
 
 
+kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~$ ls -lh /home/kathia/ForenseDigital/Modulo2/RAM_Modulo2.mem
+-rw-rw-r-- 1 kathia kathia 6.5G Nov 20 00:51 /home/kathia/ForenseDigital/Modulo2/RAM_Modulo2.mem
+kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~$ python3 --version
+Python 3.12.3
+kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~$ 
 
 
 
