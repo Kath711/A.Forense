@@ -34,6 +34,8 @@ kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~$
 
 
 
+config volatility
+<img width="1920" height="1200" alt="configvolatility" src="https://github.com/user-attachments/assets/5642088d-cf81-4964-a8e4-2d2d2151a553" />
 
 
 
