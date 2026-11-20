@@ -16,6 +16,8 @@ windows 2
 capture memory
 <img width="1920" height="1200" alt="cpturememory" src="https://github.com/user-attachments/assets/dd7a7b13-66f3-48a2-a434-46b756311493" />
 
+Completed
+<img width="1920" height="1200" alt="FTKIMAGER_login" src="https://github.com/user-attachments/assets/e682ed88-7879-44b6-89b1-981f55a53a40" />
 
 
 
