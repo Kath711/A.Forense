@@ -111,6 +111,49 @@ Velociraptor good capture:
 
 
 
- 
+ head -40 ~/ForenseDigital/Modulo2/arbol_procesos.txt
+Volatility 3 Framework 2.28.2
+
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime	Audit	Cmd	Path
+
+4	0	System	0xb40eab71f040	179	-	N/A	False	2026-11-15 02:29:19.000000 UTC	N/A	-	-	-
+* 96	4	Registry	0xb40eab841080	4	-	N/A	False	2026-11-15 02:29:18.000000 UTC	N/A	Registry	-	-
+* 2064	4	MemCompression	0xb40eb462a040	46	-	N/A	False	2026-11-15 02:29:25.000000 UTC	N/A	MemCompression	-	-
+* 436	4	smss.exe	0xb40eae762040	2	-	N/A	False	2026-11-15 02:29:19.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\smss.exe	\SystemRoot\System32\smss.exe	\SystemRoot\System32\smss.exe
+620	588	csrss.exe	0xb40eb361e080	11	-	0	False	2026-11-15 02:29:20.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16	C:\WINDOWS\system32\csrss.exe
+688	588	wininit.exe	0xb40eb3750080	2	-	0	False	2026-11-15 02:29:20.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\wininit.exe	wininit.exe	C:\WINDOWS\system32\wininit.exe
+* 824	688	services.exe	0xb40eb37cb080	8	-	0	False	2026-11-15 02:29:20.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\services.exe	C:\WINDOWS\system32\services.exeC:\WINDOWS\system32\services.exe
+** 1032	824	svchost.exe	0xb40eb39d3240	6	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	-	-
+** 1040	824	svchost.exe	0xb40eb39b3080	7	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k NetworkService -p	C:\WINDOWS\system32\svchost.exe
+** 1560	824	svchost.exe	0xb40eb3cc80c0	2	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	-	-
+** 4124	824	svchost.exe	0xb40eb4d3e080	8	-	0	False	2026-11-15 02:29:29.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	-	-
+** 5148	824	svchost.exe	0xb40eb527a080	5	-	1	False	2026-11-15 02:29:31.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	-	-
+** 1568	824	svchost.exe	0xb40eb3cc2080	3	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k UserProfileService -p -s ProfSvc	C:\WINDOWS\system32\svchost.exe
+** 548	824	svchost.exe	0xb40eb5e4d080	3	-	0	False	2026-11-15 02:34:46.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcsRedirectionGuard -p -s lfsvc	C:\WINDOWS\system32\svchost.exe
+** 556	824	svchost.exe	0xb40eb3943080	10	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k RPCSS -p	C:\WINDOWS\system32\svchost.exe
+** 2620	824	svchost.exe	0xb40eb40ce080	6	-	0	False	2026-11-15 02:29:24.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k appmodel -p -s StateRepository	C:\WINDOWS\system32\svchost.exe
+** 4160	824	svchost.exe	0xb40eb4dc1080	2	-	0	False	2026-11-15 02:29:29.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Appinfo	C:\WINDOWS\system32\svchost.exe
+** 3144	824	spoolsv.exe	0xb40eb482a080	7	-	0	False	2026-11-15 02:29:26.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\spoolsv.exe	C:\WINDOWS\System32\spoolsv.exeC:\WINDOWS\System32\spoolsv.exe
+** 2136	824	NisSrv.exe	0xb40eb5d30080	9	-	0	False	2026-11-20 06:04:53.000000 UTC	N/A	\Device\HarddiskVolume4\ProgramData\Microsoft\Windows Defender\Platform\4.18.26100.4-0\NisSrv.exe	"C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26100.4-0\NisSrv.exe"	C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26100.4-0\NisSrv.exe
+** 1128	824	svchost.exe	0xb40eb3a350c0	5	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService	C:\WINDOWS\System32\svchost.exe
+** 6248	824	svchost.exe	0xb40eb734a080	12	-	0	False	2026-11-15 04:25:29.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\System32\svchost.exe -k NetworkService -p	C:\WINDOWS\System32\svchost.exe
+** 4716	824	svchost.exe	0xb40eb5e3a080	9	-	0	False	2026-11-15 03:06:34.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s DisplayEnhancementService	C:\WINDOWS\system32\svchost.exe
+** 7288	824	svchost.exe	0xb40eb75b3080	4	-	1	False	2026-11-15 04:27:44.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	-	-
+** 8836	824	svchost.exe	0xb40eb3d6f080	11	-	0	False	2026-11-15 02:31:34.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k whesvc -p -s whesvc	C:\WINDOWS\system32\svchost.exe
+** 4740	824	svchost.exe	0xb40eb359f080	12	-	0	False	2026-11-15 04:10:49.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\System32\svchost.exe -k netsvcs	C:\WINDOWS\System32\svchost.exe
+** 1160	824	svchost.exe	0xb40eb3a8e080	5	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s TimeBrokerSvc	C:\WINDOWS\system32\svchost.exe
+** 4744	824	svchost.exe	0xb40eb50bb080	7	-	0	False	2026-11-15 02:29:30.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalService -p -s CDPSvc	C:\WINDOWS\system32\svchost.exe
+** 2700	824	svchost.exe	0xb40eb47c90c0	5	-	0	False	2026-11-15 02:29:26.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	-	-
+** 1680	824	svchost.exe	0xb40eab784080	3	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalServiceHttp -p	C:\WINDOWS\system32\svchost.exe
+** 2708	824	svchost.exe	0xb40eb3a8c080	3	-	0	False	2026-11-15 02:29:26.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s DusmSvc	C:\WINDOWS\System32\svchost.exe
+** 1176	824	svchost.exe	0xb40eb3a94080	4	-	0	False	2026-11-15 02:29:21.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s AppIDSvc	C:\WINDOWS\system32\svchost.exe
+** 6308	824	svchost.exe	0xb40eb5716080	6	-	0	False	2026-11-15 02:47:04.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonationRedirectionGuard -p -s SSDPSRV	C:\WINDOWS\system32\svchost.exe
+** 680	824	svchost.exe	0xb40eb4d2b080	6	-	0	False	2026-11-15 02:29:29.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\svchost.exe	-	-
+*** 700	680	csrss.exe	0xb40eb3780140	13	-	1	False	2026-11-15 02:29:20.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16	C:\WINDOWS\system32\csrss.exe
+*** 772	680	winlogon.exe	0xb40eb37a9080	3	-	1	False	2026-11-15 02:29:20.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\winlogon.exe	winlogon.exe	C:\WINDOWS\system32\winlogon.exe
+**** 1212	772	dwm.exe	0xb40eb3a4c080	22	-	1	False	2026-11-15 02:29:21.000000 UTC	N/A	\Device\HarddiskVolume4\Windows\System32\dwm.exe	"dwm.exe"	C:\WINDOWS\system32\dwm.exe
+(venv) kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/ForenseDigital/Modulo2/volatility$ 
+
+
 
 
