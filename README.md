@@ -2,6 +2,9 @@
 
 
 
+hashcat -m 29421 encabezado.hash --show > resultado_hashcat.txt
+
+cat resultado_hashcat.txt | tail -c 100
 
 
 
