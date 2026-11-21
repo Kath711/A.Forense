@@ -1,5 +1,11 @@
 # A.Forense
 
+
+
+
+wget https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.31/VeraCrypt-1.26.31-x86_64.AppImage
+
+
 Windows
 <img width="1920" height="1200" alt="windows" src="https://github.com/user-attachments/assets/64c366cd-02ea-443a-a69d-5a23a41c2ade" />
 
