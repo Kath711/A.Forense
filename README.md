@@ -1,10 +1,30 @@
 # A.Forense
 
+Confg del volumen
+<img width="1920" height="1200" alt="volume" src="https://github.com/user-attachments/assets/a9a8c201-8649-4738-ac2c-bf60c50f648d" />
+
+config volumen Mouse movement
+<img width="1920" height="1200" alt="mousemovement" src="https://github.com/user-attachments/assets/8cf0a9be-fda9-47d1-a698-6d7fbc7bfe7c" />
+
+Volumen making
+<img width="1920" height="1200" alt="Screenshot from 2026-11-20 19-45-37" src="https://github.com/user-attachments/assets/954ba74c-f2d3-46c9-859b-66dd3d4c6947" />
+
+Volume Created
+<img width="1920" height="1200" alt="created" src="https://github.com/user-attachments/assets/5c505c07-a72f-4143-a83d-0ba47ff6f061" />
+
+Hash Made
+<img width="1920" height="1200" alt="hashmade" src="https://github.com/user-attachments/assets/5e68ff7e-b087-4090-af4c-962cdd2fb7ae" />
+
+Mejor captura de Hash
+<img width="1920" height="1200" alt="Better_Hashcat" src="https://github.com/user-attachments/assets/f52cb8eb-72ff-4b9d-9d04-ff18b89a596e" />
+
+Se ve contrasena asi que bien
+<img width="1920" height="1200" alt="prove password" src="https://github.com/user-attachments/assets/e8396442-d6e3-48a5-a4e7-bcba676cb7e3" />
+
+Prueba de veracryptic
+<img width="1920" height="1200" alt="Pruevaveracrypy" src="https://github.com/user-attachments/assets/69ce4939-6ea3-4cf2-9a00-38306ffde9a3" />
 
 
-hashcat -m 29421 encabezado.hash --show > resultado_hashcat.txt
-
-cat resultado_hashcat.txt | tail -c 100
 
 
 
