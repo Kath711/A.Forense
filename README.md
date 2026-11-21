@@ -2,6 +2,7 @@
 
 
 
+chmod +x VeraCrypt-1.26.31-x86_64.AppImage
 
 wget https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.31/VeraCrypt-1.26.31-x86_64.AppImage
 
