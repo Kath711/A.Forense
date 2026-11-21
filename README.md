@@ -1,7 +1,7 @@
 # A.Forense
 
 
-
+find /usr/share /usr/lib ~/ForenseDigital -type f -iname 'veracrypt2hashcat.py' 2>/dev/null
 
 
 
