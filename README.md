@@ -1,8 +1,7 @@
 # A.Forense
 
 
-find /usr/share /usr/lib ~/ForenseDigital -type f -iname 'veracrypt2hashcat.py' 2>/dev/null
-
+python3 /usr/share/hashcat/tools/veracrypt2hashcat.py ~/ForenseDigital/Modulo3/volumen_prueba.hc
 
 
 --------
