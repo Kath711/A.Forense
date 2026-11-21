@@ -1,6 +1,15 @@
 # A.Forense
 
 
+python3 /usr/share/hashcat/tools/veracrypt2hashcat.py ~/ForenseDigital/Modulo3/volumen_prueba.hc > encabezado.hash
+
+
+printf '%s\n' 'TechMex2026!' > diccionario_prueba.txt
+
+
+ls -lh encabezado.hash diccionario_prueba.txt
+
+
 ---
 
 kathia@kathia-ThinkPad-X1-Carbon-Gen-9:~/ForenseDigital/Modulo3$ python3 /usr/share/hashcat/tools/veracrypt2hashcat.py ~/ForenseDigital/Modulo3/volumen_prueba.hc
